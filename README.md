@@ -1,5 +1,5 @@
 # GPT-Terminal
-### 使用python对openai的api接口的简单访问
+使用python对openai的api接口的简单访问
 
 ### 安装python3和openai库
 ```shell
