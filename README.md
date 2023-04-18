@@ -1,5 +1,9 @@
 # GPT-Terminal
-使用python对openai的api接口的简单访问
+使用python对openai的api接口的简单访问，可以在Linux终端中使用
+
+### 前提条件
+- 需要魔法上网
+
 
 ### 安装python3和openai库
 ```shell
